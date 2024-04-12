@@ -18,7 +18,7 @@ Documentation:
 
 Example Code:
 ```
-2, 4', .111
+2 4' .111
 ```
 The program will return 2 digits of 0 then 1.  
 The program will then return 4 digits of 1 and 0 
