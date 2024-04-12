@@ -6,9 +6,10 @@ Binmod is a simple language I created that isn't really a language. It is kinda 
 # Binmod to Binary decoder
 Documentation:
 ```
-- <Number>: Number of digits of a pattern of either 1 then 0 or 0 then 1 wil take place - referred to as a term in speech
-- ': Pattern of digits will start off with 1 instead of 0 - referred to as prime in speech
--  : A space seperates terms - referred to as space in speech
+- <Number>: Number of digits of a pattern of either 1 then 0 or 0 then 1 wil take place - referred to
+            as a "term" in speech
+- ': Pattern of digits will start off with 1 instead of 0 - referred to as "prime" in speech
+-  : A space seperates terms - referred to as "space" in speech
 - .<Number><1 or 0>: a period is the most complex function in this language, the number
                      following the period will be the number of times either a 1 or 0
                      will be repeated, which digit  will be repeated is determined as
