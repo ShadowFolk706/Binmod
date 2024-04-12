@@ -1,6 +1,6 @@
 # Binmod
 
-Binmod is a simple language I created that isn't really a language. It is kinda an esoteric computer language but it limits the size of binary files stored on your computer
+Binmod is a simple language I created that isn't really a language. It is kinda an esoteric computer language but it limits the size of binary files stored on your computer. \n
 
 Documentation:
 ```
@@ -14,9 +14,9 @@ Example Code:
 ```
 2, 4', .111
 ```
-The program will return 2 digits of 1 then 0.
-The program will then return 4 digits of 0 and 1
-The program will then return 11 1s
+The program will return 2 digits of 1 then 0. \n
+The program will then return 4 digits of 0 and 1 \n
+The program will then return 11 1s \n
 Output:
 ```
 01101011111111111
@@ -24,4 +24,4 @@ Output:
 2  4'    11 1s
 ```
 
-This language is incredibly simple and does not provide much 
+This language is incredibly simple and does not proove to be of much use. \n
