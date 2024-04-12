@@ -15,7 +15,7 @@ Documentation:
                      will be repeated, which digit  will be repeated is determined as
                      the last character of the term - referred to as "<Number> mult <1 or 0>" in speech
 ```
-
+  
 Example Code:
 ```
 2 4' .111
@@ -23,6 +23,7 @@ Example Code:
 The program will return 2 digits of 0 then 1  
 The program will then return 4 digits of 1 and 0  
 The program will then return 11 1s  
+  
 Output:
 ```
 01101011111111111
