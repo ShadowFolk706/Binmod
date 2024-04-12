@@ -1,6 +1,6 @@
 # Binmod
 
-Binmod is a simple language I created that isn't really a language. It is kinda an esoteric computer language but it limits the size of binary files stored on your computer.  
+Binmod is a simple language I created that isn't really a language. It is kinda an esoteric computer language but it reduces the size of binary files stored on your computer so I guess that it could theoretically be helpfull in some situations. Binmod stands for Binary Modulus. I got this idea because I realised that binary is a mod 2 language (it only has 2 values) which means that any series of repeating 1s and 0s or 0s and 1s could be represented as one non-0-or-1 number. The code is not hard to follow so no comments are present. It is configured to accept files with your Binmod code in it and it will turn the Binmod code back into Binary. I am currently working on a encoder to turn Binary into Binmod code.  
 
 Documentation:
 ```
